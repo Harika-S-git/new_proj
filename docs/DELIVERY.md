@@ -2,7 +2,7 @@
 
 Project repository: https://github.com/Harika-S-git/new_proj
 
-The GitHub release contains the complete project ZIP, final report and slides.
+The dist/ folder contains the complete project ZIP; docs/ contains the report and slides.
 The repository also contains the source, corpus, evidence and deployment files.
 Start with README.md or START_HERE.md. No provider keys or .env are included.
 

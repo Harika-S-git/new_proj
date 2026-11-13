@@ -1,6 +1,6 @@
 # Export Classification Check Service
 
-**Download:** [Final project ZIP](https://github.com/Harika-S-git/new_proj/releases/latest/download/Export_Classification_Check_Final_Project.zip) · [Project report](https://github.com/Harika-S-git/new_proj/releases/latest/download/Project_Report.pdf) · [Presentation](https://github.com/Harika-S-git/new_proj/releases/latest/download/Presentation.pdf)
+**Download:** [Final project ZIP](https://github.com/Harika-S-git/new_proj/raw/refs/heads/main/dist/Export_Classification_Check_Final_Project.zip) · [Project report](https://github.com/Harika-S-git/new_proj/blob/main/docs/REPORT.pdf) · [Presentation](https://github.com/Harika-S-git/new_proj/blob/main/docs/PRESENTATION.pdf)
 
 UE24AM342AA5 · Mini Project 07 · Chapters 73 and 96.
 A containerised FastAPI service with queued LangGraph classification and an
@@ -121,7 +121,7 @@ LLM legal reasoning or provider latency. Do not submit secrets as product data.
 
 Repository: https://github.com/Harika-S-git/new_proj. Fill in actual names/SRNs
 in docs/TEAM.md, confirm the corpus with the evaluator and perform the live
-presentation/viva. The release ZIP contains the complete source deliverable;
+presentation/viva. The downloadable ZIP contains the complete source deliverable;
 faculty confirmation and live presentation are not claimed as completed.
 
 Stop with `docker compose down`; this preserves data volumes. `down -v` deletes
